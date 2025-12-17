@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <title>JavaScript</title>
+        <script type="text/javascript>
+         function add_Nos()
+         {
+            var x=promt("Enter first number:");
+            var y=promt("Enter second number:");
+            var sum=x+y;
+            alert("Addition is :"+sum);
+         }
+         function sub_Nos()
+         {
+            var x=promt("Enter first number:");
+            var y=promt("Enter second number:");
+            var sub=x-y;
+            alert("Subtraction is:"+sub);
+         }
+        </script>
+    </head>
+</html>

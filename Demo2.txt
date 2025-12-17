@@ -1,0 +1,21 @@
+<html>
+   <head>
+       <title> Welcome to Javascript </title>
+       <script type="text/javascript">
+       function message1()
+        {
+          alert("Good morning");
+        }  
+       function message2()
+        {
+          alert("Good night");
+        }
+   
+       </script>
+       
+   </head>
+  <body>
+      <input type="submit" name="msg1" value="Message1" onclick="message1()"/>
+      <input type="submit" name="msg2" value="message2" onclick="message2()"/>
+  </body>
+</html>
